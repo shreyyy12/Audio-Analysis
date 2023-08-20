@@ -1,0 +1,2 @@
+# Audio Analysis
+ worked on audio processing using Fourier transform. It takes in live audio sample and matches them with existing audio samples in the MySQL database. We used python libraries like pyaudio, numpy , matplotlib, scipy, wavio,wave and cv2 to extract live audio recording and store it in the database. Then the features of the audio and map it with pre- existing audio to get desired results. I made use of the various technical skills like python programming, MySQL DBMS, OpenCV ,NLP and speech processing.
